@@ -1,0 +1,11 @@
+C:\Users\PINAR\Desktop\deneme4\deneme4\bin\Debug\deneme4.exe.config
+C:\Users\PINAR\Desktop\deneme4\deneme4\bin\Debug\deneme4.exe
+C:\Users\PINAR\Desktop\deneme4\deneme4\bin\Debug\deneme4.pdb
+C:\Users\PINAR\Desktop\deneme4\deneme4\obj\Debug\deneme4.csproj.AssemblyReference.cache
+C:\Users\PINAR\Desktop\deneme4\deneme4\obj\Debug\deneme4.csproj.SuggestedBindingRedirects.cache
+C:\Users\PINAR\Desktop\deneme4\deneme4\obj\Debug\deneme4.Form1.resources
+C:\Users\PINAR\Desktop\deneme4\deneme4\obj\Debug\deneme4.Properties.Resources.resources
+C:\Users\PINAR\Desktop\deneme4\deneme4\obj\Debug\deneme4.csproj.GenerateResource.cache
+C:\Users\PINAR\Desktop\deneme4\deneme4\obj\Debug\deneme4.csproj.CoreCompileInputs.cache
+C:\Users\PINAR\Desktop\deneme4\deneme4\obj\Debug\deneme4.exe
+C:\Users\PINAR\Desktop\deneme4\deneme4\obj\Debug\deneme4.pdb
